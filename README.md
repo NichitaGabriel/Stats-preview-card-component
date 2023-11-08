@@ -26,10 +26,11 @@ Users should be able to:
 ### Screenshot
 
 Desktop version
-<img src="screenshots\Solution-Desktop-Version.JPG" alt="Desktop Version" width="1024"/>
+<img src="images/screenshot-desktop-version.JPG" alt="Desktop Version" width="1024"/>
 
 Mobile version
-<img src="screenshots/Solution-Mobile-Version.JPG" alt="Desktop Version" width="1024"/>
+<img src="images/screenshot-mobile-version.JPG" alt="Mobile Version" width="1024"/>
+
 ### Links
 
 - [Solution URL](https://github.com/NichitaGabriel/Stats-preview-card-component)
